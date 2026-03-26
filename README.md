@@ -1,4 +1,4 @@
-# 📊 Análisis de Asistencia · Austral Pack S.A.
+# Análisis de Asistencia - Talana
 
 Herramienta para analizar informes de asistencia mensual y generar un reporte ejecutivo en Excel con gráficos y métricas por área.
 
