@@ -1,6 +1,6 @@
 # Análisis de Asistencia - Talana
 
-Herramienta para analizar informes de asistencia mensual y generar un reporte ejecutivo en Excel con gráficos y métricas por área.
+Herramienta para analizar informes de asistencia exportados de Talana y generar un reporte ejecutivo en Excel con gráficos y métricas por área.
 
 ---
 
